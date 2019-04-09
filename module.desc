@@ -1,0 +1,6 @@
+# Syntax is YAML 1.2
+---
+type:       "view"
+name:       "uiselector"
+interface:  "pythonqt"
+script:     "main.py"
